@@ -1,0 +1,34 @@
+Music/
+│
+├── LedZeppelin/
+│   ├── IV/
+│   │   ├── track1.mp3
+│   │   ├── track2.mp3
+│   │   ├── ...
+│   │
+│   └── HousesOfTheHoly/
+│       ├── track1.mp3
+│       ├── track2.mp3
+│       ├── ...
+│
+├── PinkFloyd/
+│   ├── Meddle/
+│   │   ├── track1.mp3
+│   │   ├── track2.mp3
+│   │   ├── ...
+│   │
+│   └── Animals/
+│       ├── track1.mp3
+│       ├── track2.mp3
+│       ├── ...
+│
+└── TheRollingStones/
+    ├── StickyFingers/
+    │   ├── track1.mp3
+    │   ├── track2.mp3
+    │   ├── ...
+    │
+    └── TattooYou/
+        ├── track1.mp3
+        ├── track2.mp3
+        ├── ...
